@@ -1,15 +1,17 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-sudip-mondal" class="anchor" aria-hidden="true" href="#sudip-mondal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Imran Biswas</h1>
-<p dir="auto">Third year, B.Tech Computer Science and Engineering<br>
-Goverment College of Engineering and Textile Technology, Berhampore<br>
-<a href="mailto:imranbiswas2209@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/imranbiswas/" rel="nofollow">LinkedIn</a> | <a href="https://www.facebook.com/imran.biswas.73700" rel="nofollow">Facebook</a> | <a href="https://www.instagram.com/___utopian_/" rel="nofollow">Instagram</a> | <a href="https://leetcode.com/utopian_coder/" rel="nofollow">LeetCode</a></p>
-<h2 dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skills</h2>
-<ul dir="auto">
-<li>Frontend Development</li>
-<li>Data Structures and Algorithms</li>
-<li>Programming Languages: C++, C, JavaScript, Java</li>
-<li>Version Control System: Git &amp; GitHub</li>
-</ul>
-<h2 dir="auto"><a id="user-content-tools-and-technologies" class="anchor" aria-hidden="true" href="#tools-and-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tools and Technologies</h2>
+## 👻 Imran Biswas
+Third year, B.Tech Computer Science and Engineering (2020 - 2024)  
+Goverment College of Engineering and Textile Technology, Berhampore  
+
+## 🖐🏽 Connect With Me
+- <a href="mailto:imranbiswas2209@gmail.com">E-mail</a>   <a href="https://www.linkedin.com/in/imranbiswas/" rel="nofollow">LinkedIn</a>   <a href="https://www.facebook.com/imran.biswas.73700" rel="nofollow">Facebook</a>   <a href="https://www.instagram.com/___utopian_/" rel="nofollow">Instagram</a>  
+- <a href="https://linktr.ee/imran_biswas" rel="nofollow">Coding Profiles</a></p>
+
+## 💪 Skills
+- Frontend Development
+- Data Structures and Algorithms
+- Programming Languages: C++, C, JavaScript, Java
+- Version Control System: Git & GitHub
+## ⚒️ Tools and Technologies
 <p align="left" dir="auto">
 <a href="https://www.cprogramming.com/" title="C" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/cpp/" title="C++" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
@@ -22,4 +24,7 @@ Goverment College of Engineering and Textile Technology, Berhampore<br>
     <a href="https://reactjs.org/" title="React.js" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://git-scm.com/" title="git" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 </p>
-</article>
+
+## 📈 GitHub Stats
+
+[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats)
