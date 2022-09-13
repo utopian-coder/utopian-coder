@@ -23,8 +23,8 @@ Goverment College of Engineering and Textile Technology, Berhampore
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>     
     <a href="https://reactjs.org/" title="React.js" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://git-scm.com/" title="git" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-</p>
+</p><br>
 
 ## 📈 GitHub Stats
-
-[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats)
+| [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utopian-coder&layout=compact)](https://github.com/utopian-coder/github-readme-stats) |
+| --- | --- |
