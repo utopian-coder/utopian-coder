@@ -1,5 +1,5 @@
 ## 🤖 Imran Biswas
-Third year, B.Tech Computer Science and Engineering (2020 - 2024)  
+Fourth year, B.Tech Computer Science and Engineering (2020 - 2024)  
 Goverment College of Engineering and Textile Technology, Berhampore  
 
 ## 👻 Connect With Me
