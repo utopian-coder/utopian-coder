@@ -9,14 +9,13 @@ Goverment College of Engineering and Textile Technology, Berhampore
 ## 💪 Skills
 - Fullstack Development
 - Data Structures and Algorithms
-- Programming Languages: C++, C, JavaScript, Java
+- Programming Languages: C++, C, JavaScript
 - Version Control System: Git & GitHub
 
 ## ⚒️ Tools and Technologies
 <p align="left" dir="auto">
 <a href="https://www.cprogramming.com/" title="C" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cpp/" title="C++" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.java.com/en/" title="Java" rel="nofollow"> <img src="https://camo.githubusercontent.com/625578a9d18156e310427dd1c4a53a2dff03429d02d791f136535f036c74a94d/68747470733a2f2f7777772e6f7261636c652e636f6d2f612f6f636f6d2f696d672f6f6269632d6a6176612d6375702e737667" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/html/" title="HTML" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" title="CSS" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com" title="Bootstrap" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
