@@ -7,10 +7,10 @@ Government College of Engineering and Textile Technology, Berhampore
 - <a href="https://linktr.ee/imran_biswas" rel="nofollow">Coding Profiles</a></p>
 
 ## ⚒️ Tools and Technologies
-🎨Frontend Development: HTML, CSS, TailwindCSS, Javascript, ReactJs  
-⚙️Backend Development: NodeJs, ExpressJs, MongoDB  
-📦Tools: Git & Github, Postman, Figma  
-🧑🏽‍💻Programming Languages: C, C++, Javascript  
+- 🎨Frontend Development: HTML, CSS, TailwindCSS, Javascript, ReactJs  
+- ⚙️Backend Development: NodeJs, ExpressJs, MongoDB  
+- 📦Tools: Git & Github, Postman, Figma  
+- 🧑🏽‍💻Programming Languages: C, C++, Javascript  
 
 ## 📈 GitHub Stats
 | [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utopian-coder&layout=compact)](https://github.com/utopian-coder/github-readme-stats) |
