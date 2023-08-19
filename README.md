@@ -12,6 +12,6 @@ Government College of Engineering and Textile Technology, Berhampore
 - 📦Tools: Git & Github, Postman, Figma  
 - 💁🏽‍♂️Programming Languages: C, C++, Javascript  
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 | [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utopian-coder&layout=compact)](https://github.com/utopian-coder/github-readme-stats) |
 | --- | --- |
