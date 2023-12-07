@@ -8,10 +8,7 @@ Government College of Engineering and Textile Technology, Berhampore
 
 ## ⚒️ Tools and Technologies
 - 🎨Frontend Development: HTML, CSS, TailwindCSS, Bootstrap, Javascript, ReactJs
-- ⚙️Backend Development: NodeJs, ExpressJs, MongoDB  
+- ⚙️Backend Development: NodeJs, FastAPI, ExpressJs, MongoDB  
 - 📦Tools: Git & Github, Postman, Figma  
-- 💁🏽‍♂️Programming Languages: C, C++, Javascript  
+- 💁🏽‍♂️Programming Languages: C, C++, Javascript, Python  
 
-## 📊 GitHub Stats
-| [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=utopian-coder)](https://github.com/utopian-coder/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utopian-coder&layout=compact)](https://github.com/utopian-coder/github-readme-stats) |
-| --- | --- |
