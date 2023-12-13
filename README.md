@@ -9,6 +9,6 @@ Government College of Engineering and Textile Technology, Berhampore
 ## ⚒️ Tools and Technologies
 - 🎨Frontend Development: HTML, CSS, TailwindCSS, Bootstrap, Javascript, ReactJs
 - ⚙️Backend Development: NodeJs, FastAPI, ExpressJs, MongoDB  
-- 📦Tools: Git & Github, Postman, Figma  
+- 📦Tools: Git & Github, Postman
 - 💁🏽‍♂️Programming Languages: C, C++, Javascript, Python  
 
